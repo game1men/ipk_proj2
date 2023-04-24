@@ -1,0 +1,10 @@
+missing port udp,ipkcpc -h 127.0.0.1 -m udp,1
+missing host udp,ipkcpc -p 9999 -m udp,1
+missing mode,ipkcpc -h 127.0.0.1,1
+port too small udp,ipkcpc -h 127.0.0.1 -p 0 -m udp,1
+port too big udp,ipkcpc -h 127.0.0.1 -p 65536 -m udp,1
+missing port tcp,ipkcpc -h 127.0.0.1 -m tcp,1
+missing host tcp,ipkcpc -p 9999 -m tcp,1
+missing mode,ipkcpc -h 127.0.0.1,1
+port too small tcp,ipkcpc -h 127.0.0.1 -p 0 -m tcp,1
+port too big tcp,ipkcpc -h 127.0.0.1 -p 65536 -m tcp,1
