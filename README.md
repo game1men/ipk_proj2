@@ -364,7 +364,7 @@ BYE
 
 ## References
 
-[1] [IPK Calculator Protocol]([./Protocol.md](https://git.fit.vutbr.cz/NESFIT/IPK-Projekty/src/branch/master/Project%201/Protocol.md))
+[1] [IPK Calculator Protocol](https://git.fit.vutbr.cz/NESFIT/IPK-Projekty/src/branch/master/Project%201/Protocol.md)
 
 [2] KOUTENSKÝ, Michal. DOLEJŠKA, Daniel. *IPK2023 – 03 – Programování (Dolejška, Koutenský)*[online]. [14.03.2023] Dostupné z: [https://moodle.vut.cz/pluginfile.php/550189/mod_folder/content/0/IPK2022-23L-03-PROGRAMOVANI.pdf?forcedownload=1](https://moodle.vut.cz/pluginfile.php/550189/mod_folder/content/0/IPK2022-23L-03-PROGRAMOVANI.pdf?forcedownload=1)
 
